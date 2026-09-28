@@ -1,4 +1,4 @@
 welcome4
-hello world
+hello from conflict branch
 this is first commit
 Edited using Acode on Android
