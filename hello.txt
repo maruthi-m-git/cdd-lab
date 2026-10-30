@@ -1,0 +1,3 @@
+Hello GitHub!
+This is my first Android project.
+I made this change from my Android phone.
